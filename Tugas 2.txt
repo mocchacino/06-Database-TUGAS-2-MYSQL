@@ -1,0 +1,13 @@
+1.	a. Tuple : Kumpulan elemen yang saling berkaitan menginformasikan tentang suatu entitas secara lengkap
+	b. Attribute : Entitas yang mendekstipsikan karakter dari entitas tersebut.
+	c. Relation : Istilah dalam relational database lebih familiar disebut sebagai tabel
+
+2. 	a. {NPM, Nama, Jenis Kelamin, Jurusan, IPK}
+	b. 	{77119789, Andi Gunawan, Laki-laki, Akuntansi, 3.29}
+		{51319653, Leshi Puspitasari, Wanita, Hukum, 3.60}
+		{56719451, Maximilianus Anthoni, Laki-laki, Ilmu Komputer, 3.17}
+	c. {56719451}, {Maximilianus Anthoni}, {Laki-laki}, {Ilmu Komputer}, {3.17}
+
+3.	a. Primary Key : atribut/kolom yang akan menjadi identitas dari setiap baris/tuple yang dipilih dari daftar candidate key
+	b. Candidate Key : satu atau beberapa atribut/kolom di dalam tabel yang tidak memiliki data unik dan tidak memiliki data kosong sehingga dapat mengindentifikasi tiap baris/tupple dari tabel tersebut
+			
